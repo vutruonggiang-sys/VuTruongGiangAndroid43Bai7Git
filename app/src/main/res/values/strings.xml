@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VuTruongGiangAdroid43Buoi6</string>
+    
+    <string name="tenTitle">Create New Note</string>
+    <string name="butSave">Save</string>
+    <string name="txtTitle">Title</string>
+    <string name="txtDescription">Description</string>
+    <string name="remind">Remind me at: </string>
+    <string name="type">Type:</string>
+    <string name="Work">Work</string>
+    <string name="kytu">|^</string>
+    <string name="tags">Tags:</string>
+    <string name="weeks">Week:</string>
+    <string name="Tune">Tune</string>
+    <string name="formfile">Form file</string>
+    <string name="formdefaults">Form defaults</string>
+    <string name="cancel">Cancel</string>
+</resources>
